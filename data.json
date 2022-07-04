@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Pascal",
+    "song": "Ngueme",
+    "id": "b4b0da3f-36e3-4569-b196-3ad982f72bbd",
+    "priceFCFA": 500,
+    "publisher": "New Bell Records"
+  },
+  {
+    "artist": "Blanche Baily",
+    "song": "Bonbon",
+    "id": "eeb58c73-603f-4d6b-9e3b-cf587488f488",
+    "priceFCFA": 161,
+    "publisher": "Alpha Beta Records"
+  },
+  {
+    "artist": "Daphne",
+    "song": "Ndolo",
+    "id": "951637bd-59ef-4448-93f5-e179bfbd20a0",
+    "priceFCFA": 370,
+    "publisher": "Alpha Beta Records"
+  },
+  {
+    "artist": "Magasco",
+    "song": "Parler encore",
+    "id": "29f5dea2-2bd1-4d13-bf33-7aadc4f14ef2",
+    "priceFCFA": 324,
+    "publisher": "Godfather Records"
+  },
+  {
+    "artist": "Jovi",
+    "song": "Et puis quoi?",
+    "id": "483b1787-a9fd-4ec8-bf16-5ec122bb559a",
+    "priceFCFA": 146,
+    "publisher": "New Bell Records"
+  },
+  {
+    "artist": "Jovi",
+    "song": "Bastard",
+    "id": "483b1787-a9fd-4ec8-bf16-5ec122bb559a",
+    "priceFCFA": 146,
+    "publisher": "New Bell Records"
+  }
+]
